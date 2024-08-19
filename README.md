@@ -1,3 +1,33 @@
+# Weather Dashboard
+
+## Project Description
+
+This Weather Dashboard is a responsive web application built with React that allows users to view the weather forecast for different cities. It fetches weather data from the OpenWeatherMap API and displays it using interactive charts and tables. Users can select different cities and view detailed weather information, including temperature and humidity.
+
+## Features
+
+- Displays the 3-hour interval weather forecast for the selected city.
+- Interactive elements like dropdowns to choose cities.
+- Data visualization using charts and tables.
+- Responsive design that works well on both desktop and mobile devices.
+
+## Technologies Used
+
+- React (with hooks)
+- Axios for fetching data
+- Chart.js (or Recharts/D3.js) for data visualization
+- CSS for styling
+
+## Setup Instructions
+
+### 1. Clone the Repository
+
+First, clone the repository to your local machine:
+
+```bash
+git clone https://github.com/your-username/weather-dashboard.git
+cd weather-dashboard
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
